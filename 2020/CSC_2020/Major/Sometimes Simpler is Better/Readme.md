@@ -21,7 +21,7 @@ Ok we have some text, looks to be hex. Let's see what the Chef thinks about it:
 ccd8c2cef6dee4c8d2dcc2d8e6fa
 ```
 <img src=https://user-images.githubusercontent.com/74765175/99862836-2ce8ab80-2c00-11eb-9035-806373e35564.png width=50% height=50%>\
-After putting in the known plaintext of flag and ticking intensive mode we are rewarded with our flag\
+After putting in the known plaintext of flag and ticking intensive mode we are rewarded with our flag
 ```
 flag{ordinals}
 ```
