@@ -4,7 +4,7 @@
 **Points**: 800 
 >Description: \
 >You have been provided a basic pcap with some encoded data, can you figure out what is there? \
->PCAPHERE
+>[PCAPEncodedData.pcap](https://github.com/Izzy-NZ/CTF_Writeups/blob/main/2020/CSC_2020/Major/Sometimes%20Simpler%20is%20Better/PCAPEncodedData.pcap)
 
 We are given a pcap file to examine, lets take a look in wireshark: \
 \
