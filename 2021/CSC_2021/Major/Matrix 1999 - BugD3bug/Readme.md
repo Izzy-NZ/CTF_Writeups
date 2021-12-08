@@ -8,7 +8,7 @@ Needle in a haystack here TBH i got lucky and found the hidden text file on my f
 ..\D3bugg3r\sources\com\example\ctf\test\test\test.zip\test\test\test.zip\test\test\test.zip\test\test\.hidden.txt
 ```
 At the bottom of .hidden .txt is a hex encoded / reversed flag:
-<img src=https://user-images.githubusercontent.com/74765175/145141623-1f1a867c-faf7-4a9d-8e1b-f773844f9274.png width=35% height=35% alt=Different Thumnail Image> \
+<img src=https://user-images.githubusercontent.com/74765175/145141623-1f1a867c-faf7-4a9d-8e1b-f773844f9274.png width=75% height=75% alt=Different Thumnail Image> 
 ```
 flag{hello_world_flag}
 ```
