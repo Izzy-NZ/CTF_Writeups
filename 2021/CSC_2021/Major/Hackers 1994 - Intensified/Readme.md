@@ -18,7 +18,7 @@ to automatically decode: \
 Using this string of text as the password for the zip file successfully gets us flag.txt:
 ```
 The flag is encrypted its easy decrypt it...
- \
+ 
 MZWGCZ33IRKE2RS7JFXHIZLOONUWM2LFMRPWC5C7NF2HGX3QMVQWW7I=
 ```
 CyberChef can work it's magic on this string which gives us a Base32 decoded text of: \
