@@ -32,9 +32,7 @@ A google search for Nakasoft comes up with a Xiao Steganography tool \
 Using this tool we can extract three documents from the CallMeX.wav file using the \
 password RANDALL: \
 <img src=https://user-images.githubusercontent.com/74765175/145144065-0066cc35-986a-4140-b704-51974d0453d8.png width=35% height=35% alt=Different Thumnail Image> \
-bmp.bmp \
-jpg.jpg \
-txt.txt \
+
 Running strings on bmp.bmp gives us the flag: /
 ```
 flag{Ext3ns1ons_aRe_A_Li3}
